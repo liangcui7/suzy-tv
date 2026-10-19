@@ -1,0 +1,600 @@
+[
+  {
+    "slug": "numberblocks",
+    "title": "Numberblocks",
+    "description": "Maths adventures in official full-episode order.",
+    "accent": "#d71920",
+    "channelUrl": "https://www.youtube.com/@Numberblocks",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "playlistId": "PL9swKX1PviEr9UfByZqJYiN8KX3AXqyXm",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviEr9UfByZqJYiN8KX3AXqyXm"
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "playlistId": "PL9swKX1PviEpC7x7ZzmxZTVrwOV2zitcu",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviEpC7x7ZzmxZTVrwOV2zitcu"
+      },
+      {
+        "number": 3,
+        "title": "Season 3",
+        "playlistId": "PL9swKX1PviEruaholwotM1lOcNCQuweCl",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviEruaholwotM1lOcNCQuweCl"
+      },
+      {
+        "number": 4,
+        "title": "Season 4",
+        "playlistId": "PL9swKX1PviEqpJgWu9DzINYclNC-rzOiF",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviEqpJgWu9DzINYclNC-rzOiF"
+      },
+      {
+        "number": 5,
+        "title": "Season 5",
+        "playlistId": "PL9swKX1PviEph7heoMnLEfW2y28kwLNZw",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviEph7heoMnLEfW2y28kwLNZw"
+      },
+      {
+        "number": 6,
+        "title": "Season 6",
+        "playlistId": "PL9swKX1PviEqUShSKIf5iS99jq1qAFztz",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviEqUShSKIf5iS99jq1qAFztz"
+      },
+      {
+        "number": 7,
+        "title": "Season 7",
+        "playlistId": "PL9swKX1PviEovgpCesV8muL-i8RwogKvL",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviEovgpCesV8muL-i8RwogKvL"
+      },
+      {
+        "number": 8,
+        "title": "Season 8",
+        "playlistId": "PL9swKX1PviErV5UKYedc69ITUoipMhr9M",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviErV5UKYedc69ITUoipMhr9M"
+      },
+      {
+        "number": 9,
+        "title": "Specials",
+        "playlistId": "PL9swKX1PviErM0wBpuVfGHrjJYBO0K9RH",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PL9swKX1PviErM0wBpuVfGHrjJYBO0K9RH",
+        "special": true
+      }
+    ]
+  },
+  {
+    "slug": "alphablocks",
+    "title": "Alphablocks",
+    "description": "Phonics stories in official full-episode order.",
+    "accent": "#2563eb",
+    "channelUrl": "https://www.youtube.com/c/officialalphablocks",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "playlistId": "PLSW2D61TnopT9wHulLTwjgBJITX3eqQ-x",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLSW2D61TnopT9wHulLTwjgBJITX3eqQ-x"
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "playlistId": "PLSW2D61TnopSlWFCzFOOlrHMJHM73SS0s",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLSW2D61TnopSlWFCzFOOlrHMJHM73SS0s"
+      },
+      {
+        "number": 3,
+        "title": "Season 3",
+        "playlistId": "PLSW2D61TnopRJD0VZwu3m2cQKDM_M_5t7",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLSW2D61TnopRJD0VZwu3m2cQKDM_M_5t7"
+      },
+      {
+        "number": 4,
+        "title": "Season 4",
+        "playlistId": "PLSW2D61TnopT7bXJYX6ineyr09gNWVrmF",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLSW2D61TnopT7bXJYX6ineyr09gNWVrmF"
+      },
+      {
+        "number": 5,
+        "title": "Season 5",
+        "playlistId": "PLSW2D61TnopTLGBjKUf5rM3jljBdMkU04",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLSW2D61TnopTLGBjKUf5rM3jljBdMkU04"
+      },
+      {
+        "number": 6,
+        "title": "Season 6",
+        "playlistId": "PLSW2D61TnopSVV21d-xqHpUzyaDTMPBc3",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLSW2D61TnopSVV21d-xqHpUzyaDTMPBc3"
+      }
+    ]
+  },
+  {
+    "slug": "colourblocks",
+    "title": "Colourblocks",
+    "description": "Colour adventures that build early creativity and art skills.",
+    "accent": "#f59e0b",
+    "channelUrl": "https://www.youtube.com/@colourblocks",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "playlistId": "PLNlJG0d7KqJvg1Lxjm33FsYBpZHRS5o2H",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLNlJG0d7KqJvg1Lxjm33FsYBpZHRS5o2H"
+      },
+      {
+        "number": 2,
+        "title": "Season 2",
+        "playlistId": "PLNlJG0d7KqJtAQCRPYDhiPexEYH0Nc5uH",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLNlJG0d7KqJtAQCRPYDhiPexEYH0Nc5uH"
+      }
+    ]
+  },
+  {
+    "slug": "wonderblocks",
+    "title": "Wonderblocks",
+    "description": "Problem-solving adventures with early coding and thinking skills.",
+    "accent": "#0f766e",
+    "channelUrl": "https://www.youtube.com/@WonderblocksOfficial",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "playlistId": "PLjEZ8YcDqI7jERXieFqwNHy1A-RpFXCAA",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLjEZ8YcDqI7jERXieFqwNHy1A-RpFXCAA"
+      }
+    ]
+  },
+  {
+    "slug": "pinkfong-pinyin",
+    "title": "Pinkfong",
+    "description": "Official Pinkfong learning songs: pinyin, space, the body, preschool lessons, dinosaurs, jobs, the Earth, and the world.",
+    "accent": "#ec4899",
+    "channelUrl": "https://www.youtube.com/@Pinkfong",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Pinyin Songs",
+        "playlistId": "PLEsW2HBdkZSkoodbfyBwAnTWWAOfW-14s",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLEsW2HBdkZSkoodbfyBwAnTWWAOfW-14s",
+        "videoIds": [
+          "cMulxJEntdI",
+          "8Wj7xueKzJI",
+          "Hj8SJnhpjws",
+          "fKvN1CmKBJo",
+          "NkmGmQ7xE9Q",
+          "Frphza0pMQc",
+          "kPn1UEWvQug",
+          "7Okc9LzY3-g",
+          "ulezHRQX5is",
+          "d9PnuXK7PGg"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Space & Planets",
+        "playlistId": "pinkfong-space",
+        "playlistUrl": "https://www.youtube.com/@Pinkfong",
+        "curated": true,
+        "videoIds": [
+          "5IKRLSwjwyk",
+          "Ws7nvigMUgE",
+          "Dcp1iTlEL4I",
+          "A4EHK6sgoOI",
+          "PS0k8mODHCY",
+          "_wLPlokj-1M",
+          "s0Br3aJdqQU",
+          "plrC_OhEHJM",
+          "1atObeHYe50",
+          "oPxS3U40_gQ",
+          "b1uZCUhc1ac",
+          "nZcL_2djtAc",
+          "qS21Dk1j40w"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "My Body",
+        "playlistId": "pinkfong-body",
+        "playlistUrl": "https://www.youtube.com/@Pinkfong",
+        "curated": true,
+        "videoIds": [
+          "gS_Mz3ekkck",
+          "pgal9UtxUbI",
+          "A3BckTsD-rc",
+          "YGi3f_fHIzg",
+          "PsqikhX0c8I",
+          "35VrDDP_akE",
+          "47WK19puq9M",
+          "UPk4esW0Rbw",
+          "Um4sppp1Ivk",
+          "kE-RoX6cvRw",
+          "XSHIISHIHQk",
+          "bctXqiTlwsQ",
+          "b0BeQE-q3nI",
+          "5JXl1UoE4NI"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Preschool Lessons",
+        "playlistId": "pinkfong-preschool",
+        "playlistUrl": "https://www.youtube.com/@Pinkfong",
+        "curated": true,
+        "videoIds": [
+          "Hv3VKOsgp8M",
+          "Iv5cs5n4698",
+          "QDVhJCfnLVM",
+          "VfoIIV5ZXYc",
+          "brKhjZS_Nnw",
+          "emeDVXvtRYA",
+          "ij0iWJB2uMo",
+          "oqBzJb0Gkc0",
+          "plJg0ixSE40",
+          "q82NS7SZFxo",
+          "j_uUAfUdapM",
+          "40to3oHki88",
+          "4Kloc32NAU0"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Dinosaurs & Animals",
+        "playlistId": "pinkfong-dinosaurs-animals",
+        "playlistUrl": "https://www.youtube.com/@Pinkfong",
+        "curated": true,
+        "videoIds": [
+          "6kvKg-GTX6c",
+          "6z7Ef8byxAo",
+          "6n6lcM5DvTQ",
+          "9Hdb0x8IEkY",
+          "eBlwOZrpzqI",
+          "bxu3Wsa2eUk",
+          "hBj9B-Dnu2k",
+          "QZnLA7NMWUM",
+          "jv_B144MEP8",
+          "Mnbrto96_0A",
+          "B4iQ5oOo6gE",
+          "Gc712Nqfm9M",
+          "t69RHxH2N5c",
+          "Kh8NZz4lKdQ",
+          "wWzShOBVwaA"
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Jobs",
+        "playlistId": "pinkfong-jobs",
+        "playlistUrl": "https://www.youtube.com/@Pinkfong",
+        "curated": true,
+        "videoIds": [
+          "Vzlm34QqQJE",
+          "jRdYiSxRsrQ",
+          "ej__hf6pxWQ",
+          "qPo37Dm81F8",
+          "13Pgg9OpPpg",
+          "BqAgCevV5cQ",
+          "-mEcaOmiw3Y",
+          "v6-c_jP5_vo",
+          "osolD9O0LKg",
+          "Eq2WKBXWizQ",
+          "IvxGm0mgKnc",
+          "DWW3Iu0CHlk"
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Earth & Environment",
+        "playlistId": "pinkfong-earth",
+        "playlistUrl": "https://www.youtube.com/@Pinkfong",
+        "curated": true,
+        "videoIds": [
+          "Vv0k_183BJA",
+          "kUli_2kP_oI",
+          "XT7Y8A8H1d0",
+          "MhS9FNdcgLU",
+          "RLLuRq845Tc",
+          "dMZ4_JTN-Ss",
+          "0LxjBO_DLSQ",
+          "zNtaarHS5UA",
+          "rXYVdrPdjEo",
+          "ZnbJur6uyHU"
+        ]
+      },
+      {
+        "number": 8,
+        "title": "How To",
+        "playlistId": "pinkfong-how-to",
+        "playlistUrl": "https://www.youtube.com/@Pinkfong",
+        "curated": true,
+        "videoIds": [
+          "sJO5167P_yc",
+          "oYFur7ohjl4",
+          "CBNw5yX1M34",
+          "_Xm9SI918vA",
+          "AGzrONaFxRg"
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Around the World",
+        "playlistId": "pinkfong-world",
+        "playlistUrl": "https://www.youtube.com/@Pinkfong",
+        "curated": true,
+        "videoIds": [
+          "ltiYn2blsuQ",
+          "uagq4wEPFYo",
+          "2uCOV-rpj4M",
+          "Blz6PTWGzKY",
+          "E9Z6hieYP5o",
+          "TC9HsacM0Sw",
+          "TP8zck-c8Ig",
+          "TyUZKwggnng",
+          "pzZMM0_YhUA",
+          "wJhlzJ3aYac"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "learn-with-peppa",
+    "title": "Learn With Peppa",
+    "description": "Official Peppa Pig lessons for maths, reading, feelings, the body, the world, community, creativity, and extra teaching clips.",
+    "accent": "#f472b6",
+    "channelUrl": "https://www.youtube.com/channel/UCCJXuk0C-_lWG8d3lW5Yotg",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Maths",
+        "playlistId": "PLCjlGW55TWr_72XpP74aCDUw_ADU-oySj",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLCjlGW55TWr_72XpP74aCDUw_ADU-oySj"
+      },
+      {
+        "number": 2,
+        "title": "English",
+        "playlistId": "PLCjlGW55TWr-Xxw3xziFuCqDyPclBEuif",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLCjlGW55TWr-Xxw3xziFuCqDyPclBEuif"
+      },
+      {
+        "number": 3,
+        "title": "Feelings",
+        "playlistId": "PLCjlGW55TWr-I5MhlQTV8JToBSkYu9CZ8",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLCjlGW55TWr-I5MhlQTV8JToBSkYu9CZ8"
+      },
+      {
+        "number": 4,
+        "title": "My Body",
+        "playlistId": "PLCjlGW55TWr9eIWbKa1DpQwCJyWrtCPtE",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLCjlGW55TWr9eIWbKa1DpQwCJyWrtCPtE"
+      },
+      {
+        "number": 5,
+        "title": "Our World",
+        "playlistId": "PLCjlGW55TWr9iyOnHYviBeslUpqrvRfVX",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLCjlGW55TWr9iyOnHYviBeslUpqrvRfVX"
+      },
+      {
+        "number": 6,
+        "title": "Community",
+        "playlistId": "PLCjlGW55TWr_9p96brCyUt-BPdzB_b2G8",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLCjlGW55TWr_9p96brCyUt-BPdzB_b2G8"
+      },
+      {
+        "number": 7,
+        "title": "Creativity",
+        "playlistId": "PLCjlGW55TWr-DULAiCJRFgew0Z2CxNLfC",
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLCjlGW55TWr-DULAiCJRFgew0Z2CxNLfC"
+      },
+      {
+        "number": 8,
+        "title": "More Lessons",
+        "playlistId": "peppa-official-lessons",
+        "playlistUrl": "https://www.youtube.com/@PeppaPigOfficial",
+        "curated": true,
+        "videoIds": [
+          "iYzY7hGIRlM",
+          "NwbJu63zU6k",
+          "UidDYQCQ_Mg",
+          "O39Y8pqssqQ",
+          "fQRzHqk7vAI",
+          "XGddTGCjt24",
+          "GjtcPS74-NU",
+          "XSCWg-aBAys",
+          "9-5tiyDbjxs",
+          "PRj6nhXF_z8",
+          "kX7O2oDIYdc",
+          "4KJ7jhRUcfU",
+          "fHNQPrsMfQA"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "learn-with-baby-shark",
+    "title": "Learn With Baby Shark",
+    "description": "Official Baby Shark songs for ABCs, numbers, colors, words, healthy habits, safety, and world cultures.",
+    "accent": "#facc15",
+    "channelUrl": "https://www.youtube.com/@BabyShark",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "ABCs & Phonics",
+        "playlistId": "baby-shark-abcs",
+        "playlistUrl": "https://www.youtube.com/@BabyShark",
+        "curated": true,
+        "videoIds": [
+          "S5nrPezsYJk",
+          "LgqOs1PVgMI",
+          "a59ajwoeFpM",
+          "_ZKDJzxOIL4",
+          "e-WS2Na8dik",
+          "XfvcBRD6ceg",
+          "gXP1qGbP3fg",
+          "28vQpV6zr9Q",
+          "igLHzn_Quyc",
+          "o5wPgBXR0cM",
+          "BUeEXljICfQ",
+          "PdC546sbbHI",
+          "hHbX-x2SZGo",
+          "Mbswzr3NtJI",
+          "rGE3eUeYxI4",
+          "nu8S_tqRssk",
+          "7W9-KqBo_00",
+          "o3Ii9W5yn_Y",
+          "yLaebTlVjRE",
+          "jFfEwgucKOQ",
+          "8UKK7vsoguU",
+          "cEDH3Fnh53k",
+          "55bNjA4D0Jc",
+          "8b7x5w--2fQ",
+          "mF9TEXnH8lU",
+          "qxBtoCkfZew"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Numbers & Shapes",
+        "playlistId": "baby-shark-numbers-shapes",
+        "playlistUrl": "https://www.youtube.com/@BabyShark",
+        "curated": true,
+        "videoIds": [
+          "tMEL7Hh5WFU",
+          "wLego0nkMu8",
+          "zTmjQz198f0",
+          "Pm1yPyTVXUE",
+          "J78QsRSdX5w",
+          "z9IqRVsKzFI",
+          "FMNN-TRs3jM",
+          "x-B4T-ork_E",
+          "RZkd8A9ZzO4",
+          "uHbaM118EB8",
+          "Pk7ZZDk_WzE",
+          "qVb4jGmZFzg"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Colors",
+        "playlistId": "baby-shark-colors",
+        "playlistUrl": "https://www.youtube.com/@BabyShark",
+        "curated": true,
+        "videoIds": [
+          "ivnGIs3glCA",
+          "CeU2Pd1hc3o",
+          "pUHtH2WV9jM",
+          "eHTCThFU1M4",
+          "DQ6nsfqHHb4",
+          "3FodVcAkyTo",
+          "T36vuAz7xwI",
+          "LfrYTxSI31w",
+          "VeBj3H9H9Ak",
+          "kUp-AqZJZOE",
+          "KLuCX_BVgNE",
+          "kWZhkqQG5Qw",
+          "kMI4y6_k07U"
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Words",
+        "playlistId": "baby-shark-words",
+        "playlistUrl": "https://www.youtube.com/@BabyShark",
+        "curated": true,
+        "videoIds": [
+          "mzgHHZRajlA",
+          "Q3frjDe9KQE",
+          "qbTUD3AP7eI",
+          "n3Iz7EXqrgQ",
+          "r3VnLvo0yco",
+          "Gb9xU2JEVRI",
+          "QHxcm42rEtc",
+          "txGEZAUMlYQ",
+          "NAzu5BerLcs",
+          "NctJogogzeE",
+          "XGFPmoJdqEs",
+          "t4oDui2ngbA",
+          "kGYSl-LB1qg",
+          "onHy7ZUaZcc",
+          "GP6OgaX_-vU",
+          "ugK9dB00dg8",
+          "pJqQ4FVR4-A"
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Healthy Habits",
+        "playlistId": "baby-shark-healthy-habits",
+        "playlistUrl": "https://www.youtube.com/@BabyShark",
+        "curated": true,
+        "videoIds": [
+          "4HesAcXFZno",
+          "-PnNkeWUlxk",
+          "9FQOTS03aus",
+          "V5_8BRKRTBk",
+          "xLP5fdgmZu8",
+          "27LM8jwYbc0",
+          "scI3a0tKuiI",
+          "Vo8Fp0qbN5w",
+          "b1MTdlR5MEk",
+          "auRmGCFYs7U",
+          "y4s47gT8mXM",
+          "KGgL2d9c8ro",
+          "K-w83xTI7d4",
+          "mttR71elrx8",
+          "Xp21ddtiIu4",
+          "Hvf-d8XH6Tw",
+          "e-wcrAhPA3U",
+          "3_xvuzr_0Iw",
+          "rgFa-1vDGjQ",
+          "1YBWS0sSFVs"
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Safety",
+        "playlistId": "baby-shark-safety",
+        "playlistUrl": "https://www.youtube.com/@BabyShark",
+        "curated": true,
+        "videoIds": [
+          "-_i7McAKyFo",
+          "Hf-_PM1c6xw",
+          "59tHfGBNfA8",
+          "gLWa9jcu1uk",
+          "JCqK1XJ_Jvo",
+          "po2J35IbgrM",
+          "CvDK9WA9ccc",
+          "OKezrTZgF7M",
+          "DIl-G-ErvPE",
+          "fKJI3bvEvM4",
+          "TtVJn9G6JTk",
+          "jWRzWBPge4Q",
+          "gprWH_B2_mk",
+          "CdPPSJ1HdCE",
+          "niYwJ2o9Ju8"
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Around the World",
+        "playlistId": "baby-shark-around-the-world",
+        "playlistUrl": "https://www.youtube.com/@BabyShark",
+        "curated": true,
+        "videoIds": [
+          "2ZQ1cDNUIeI",
+          "JazJK8uPDAI",
+          "3Avq4kCRTHk",
+          "CVQ3b-BV_1M",
+          "YvncxDizchM",
+          "6hbvNrUg958",
+          "7Uvu2NxdkWw",
+          "nuW4KZ3Sp7I",
+          "AHI3MDZvkvU",
+          "krj4T016coI",
+          "tzITD0DQSGs",
+          "YZESbO7a-pA",
+          "rF4wiWG4wJk",
+          "Za9CCYrCTBU"
+        ]
+      }
+    ]
+  }
+]

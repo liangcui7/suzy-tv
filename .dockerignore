@@ -1,0 +1,12 @@
+.git
+node_modules
+dist
+data
+output
+coverage
+.env
+.env.*
+android-tv
+tests
+.DS_Store
+npm-debug.log*

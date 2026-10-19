@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Suzy TV">
+  <rect width="512" height="512" fill="#111827"/>
+  <rect x="96" y="132" width="320" height="218" rx="40" fill="#ef4444"/>
+  <path d="M232 190v102l84-51-84-51z" fill="#fff"/>
+  <rect x="150" y="376" width="212" height="24" rx="12" fill="#facc15"/>
+  <circle cx="184" cy="388" r="32" fill="#22c55e"/>
+  <circle cx="256" cy="388" r="32" fill="#38bdf8"/>
+  <circle cx="328" cy="388" r="32" fill="#f97316"/>
+  <text x="184" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#111827">1</text>
+  <text x="256" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#111827">2</text>
+  <text x="328" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#111827">3</text>
+</svg>

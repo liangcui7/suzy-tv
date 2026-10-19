@@ -1,0 +1,26 @@
+{
+  "name": "Suzy TV",
+  "short_name": "Suzy TV",
+  "description": "Official Blocks learning videos organized by show, season, and episode.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#020617",
+  "theme_color": "#111827",
+  "categories": ["education", "entertainment", "kids"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/maskable-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

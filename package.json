@@ -1,0 +1,35 @@
+{
+  "name": "suzy-tv",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "node --env-file-if-exists=.env --watch server/index.js",
+    "dev:web": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "start": "node --env-file-if-exists=.env server/index.js",
+    "sync:playlists": "node scripts/sync-playlists.mjs",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "express": "^4.19.2",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sql.js": "^1.10.3",
+    "vite": "^6.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "concurrently": "^9.0.1",
+    "jsdom": "^25.0.1",
+    "supertest": "^7.0.0",
+    "vitest": "^4.1.7"
+  },
+  "engines": {
+    "node": ">=22.9"
+  }
+}
