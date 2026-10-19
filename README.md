@@ -2,6 +2,8 @@
 
 Suzy TV organizes official learning videos by show, season, and episode. It includes Numberblocks, Alphablocks, Colourblocks, Wonderblocks, and Pinkfong Pinyin.
 
+Hosted app: <https://suzytv.liangcui.net>.
+
 The app supports tablet use, PWA installation, TV remote navigation, parent controls, episode play counts, subtitles, and season selection. When the last episode of a season ends, playback starts again at the first episode of that season.
 
 ## Run Locally
